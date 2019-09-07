@@ -1,0 +1,31 @@
+body {
+	background-color: lemonchiffon;
+	margin: 0 auto;
+	width: 80%;
+	text-align: center;
+}
+
+header {
+	background-color: lightcoral;
+	font-size: 35px;
+	top: 0;
+	position: sticky;
+}
+.profes{
+	margin: auto;
+}
+.fila {
+	background-color: darkred;
+}
+.titulo {
+	background-color: darkorange;
+}
+
+img {
+	width: 100px;
+	height: 110px
+}
+
+footer {
+	border-style: border-top: 5px solid black;
+}
